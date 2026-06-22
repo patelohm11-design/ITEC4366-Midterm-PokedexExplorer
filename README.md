@@ -38,5 +38,3 @@ Example endpoints used:
 - `_footer.php` — shared footer and Bootstrap script
 - `style.css` — custom styling
 
-## AI Use
-AI tools helped brainstorm the project idea, create starter PHP/Bootstrap code, organize reusable templates, and write presentation notes. I tested the pages, reviewed the API output, checked the PHP structure, and made sure the project met the assignment requirements.
